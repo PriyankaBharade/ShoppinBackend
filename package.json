@@ -1,0 +1,19 @@
+{
+  "name": "retail-demo-server",
+  "version": "1.0.0",
+  "description": "retail-demo-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1223.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "uuid": "^9.0.0"
+  }
+}
